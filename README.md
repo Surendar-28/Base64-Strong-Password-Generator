@@ -16,4 +16,9 @@ Enter the following commands on the Linux Terminal:
  
 # Installation for Windows : 
  1) https://www.youtube.com/watch?v=0AiqegwnskE
- 2) Follow the steps provided in Linux now 
+ 2) Download the file(Base64-Strong-Password-Generator) and unzip it 
+ 3) Open CMD(Goto start type cmd)
+ 4) Change directory of cmd to Download/Base64-Strong_Password-Generator [cd C:\Users\Downloads]
+ 5) type sh PasswordGenerator.sh
+ 
+  
