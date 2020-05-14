@@ -15,10 +15,9 @@ Enter the following commands on the Linux Terminal:
  3) bash PasswordGenerator.sh
  
 # Installation for Windows : 
- 1) https://www.youtube.com/watch?v=0AiqegwnskE
- 2) Download the file(Base64-Strong-Password-Generator) and unzip it 
- 3) Open CMD(Goto start type cmd)
- 4) Change directory of cmd to Download/Base64-Strong_Password-Generator [cd C:\Users\Downloads]
- 5) type sh PasswordGenerator.sh
+ 1) Goto - https://www.tutorialspoint.com/unix_terminal_online.php
+ 2) Copy and Paste the code to terminal in the website 
+ 3) Press Execute  
+ 4) Disadvantage - No User Input will be accepted - Cut short the password lenght you require 
  
   
