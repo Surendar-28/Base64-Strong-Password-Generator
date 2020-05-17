@@ -16,8 +16,19 @@ Enter the following commands on the Linux Terminal:
  
 # Installation for Windows : 
  1) Goto - https://www.tutorialspoint.com/unix_terminal_online.php
- 2) Copy and Paste the code to terminal in the website 
+ 2) Copy and Paste the code to terminal in thepp website 
  3) Press Execute  
  4) Disadvantage - No User Input will be accepted - Cut short the password lenght you require 
  
   
+# For Android : 
+
+1) Download Termux from playstore 
+2) Open Termum and type the following commands :
+
+apt update 
+pkg install git
+pkg install openssl-tool
+git clone https://github.com/Surendar-28/Base64-Strong-Password-Generator
+cd Base64-Strong-Password-Generator
+bash PasswordGenerator.sh
