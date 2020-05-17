@@ -23,12 +23,19 @@ Enter the following commands on the Linux Terminal:
   
 # For Android : 
 
-1) Download Termux from playstore 
-2) Open Termum and type the following commands :
+ 1) Download Termux from playstore 
+ 2) Open Termum and type the following commands :
+ Type without the quotes 
 
-apt update 
-pkg install git
-pkg install openssl-tool
-git clone https://github.com/Surendar-28/Base64-Strong-Password-Generator
-cd Base64-Strong-Password-Generator
-bash PasswordGenerator.sh
+ "apt update"
+
+ "pkg install git"
+
+ "pkg install openssl-tool"
+
+ "git clone https://github.com/Surendar-28/Base64-Strong-Password-Generator"
+
+ "cd Base64-Strong-Password-Generator"
+
+ "bash PasswordGenerator.sh"
+ 
