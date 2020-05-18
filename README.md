@@ -38,11 +38,11 @@ Enter the following commands on the Linux Terminal:
  
     '''bash
 
-    apt update    
-    pkg install git    
-    pkg install openssl-tool    
-    git clone https://github.com/Surendar-28/Base64-Strong-Password-Generator
-    cd Base64-Strong-Password-Generator
-    bash PasswordGenerator.sh
+        apt update    
+        pkg install git    
+        pkg install openssl-tool    
+        git clone https://github.com/Surendar-28/Base64-Strong-Password-Generator
+        cd Base64-Strong-Password-Generator
+        bash PasswordGenerator.sh
     '''
 
