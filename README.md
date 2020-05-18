@@ -36,7 +36,7 @@ Enter the following commands on the Linux Terminal:
  1. Download Termux from playstore 
  2. Open Termum and type the following commands :
  
-'''bash
+    '''bash
 
     apt update    
     pkg install git    
@@ -44,6 +44,5 @@ Enter the following commands on the Linux Terminal:
     git clone https://github.com/Surendar-28/Base64-Strong-Password-Generator
     cd Base64-Strong-Password-Generator
     bash PasswordGenerator.sh
-'''
+    '''
 
- 
