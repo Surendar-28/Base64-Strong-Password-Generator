@@ -12,12 +12,13 @@ The user can copy the desired password that he/she might want ,if not regenrate 
 # Installation / Usage on Linux :
 
 Enter the following commands on the Linux Terminal: 
+'''bash
+    git clone https://github.com/Surendar-28/Base64-Strong-Password-Generator
 
-> git clone https://github.com/Surendar-28/Base64-Strong-Password-Generator
+    cd Base64-Strong-Password-Generator/
 
-> cd Base64-Strong-Password-Generator/
-
-> bash PasswordGenerator.sh
+    bash PasswordGenerator.sh
+'''
 ---
  
 # Installation for Windows : 
