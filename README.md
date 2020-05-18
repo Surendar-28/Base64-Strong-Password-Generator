@@ -21,7 +21,7 @@ Enter the following commands on the Linux Terminal:
 ---
  
 # Installation for Windows : 
- 1. Watch [this](https://www.tutorialspoint.com/unix_terminal_online.php) Youtube video .
+ 1. [Open this Page](https://www.tutorialspoint.com/unix_terminal_online.php).
  2. Copy and Paste the code to terminal in thepp website 
  3. Press Execute  
  4. Disadvantage - No User Input will be accepted - Cut short the password lenght you require 
