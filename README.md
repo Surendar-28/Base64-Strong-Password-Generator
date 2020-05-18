@@ -13,7 +13,7 @@ The user can copy the desired password that he/she might want ,if not regenrate 
 
 Enter the following commands on the Linux Terminal: 
 
-'''
+
 
     git clone https://github.com/Surendar-28/Base64-Strong-Password-Generator
 
@@ -36,13 +36,11 @@ Enter the following commands on the Linux Terminal:
  1. Download Termux from playstore 
  2. Open Termum and type the following commands :
  
-    '''bash
-
-        apt update    
+        apt update
         pkg install git    
         pkg install openssl-tool    
         git clone https://github.com/Surendar-28/Base64-Strong-Password-Generator
         cd Base64-Strong-Password-Generator
         bash PasswordGenerator.sh
-    '''
+
 
