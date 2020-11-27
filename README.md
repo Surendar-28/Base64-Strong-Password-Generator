@@ -1,6 +1,6 @@
 # Base64-Strong-Password-Generator
 
-* This password generator uses base64 for generation of password 'which is immpossibe to hack(atleast takes 7years to crack the password)' and all other password generator on the internet uses hexadecimal values which can be cracked using BRUTE FORCE METHOD ! 
+* This password generator uses base64 for generation of password 'which is impossibe to hack(atleast takes 7years to crack the password)' and all other password generator on the internet uses hexadecimal values which can be cracked using BRUTE FORCE METHOD ! 
 
 * This password generator can be used for creating strong password. You can use any of the unique passwords to social media accounts (high security)
 
